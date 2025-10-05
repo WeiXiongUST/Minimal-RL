@@ -68,15 +68,19 @@ Our experiments show that Reinforce-Ada consistently improves sample efficiency 
 | *Qwen2.5-Math-1.5B* | GRPO | 74.2 | 34.4 | 38.4 | 16.2 | 45.3 |
 | *Qwen2.5-Math-1.5B* | Reinforce-Ada-pos | 75.8 | 35.7 | 38.6 | 16.5 | 46.1 |
 | *Qwen2.5-Math-1.5B* | Reinforce-Ada-balance | 77.4 | 36.5 | 40.5 | 17.5 | 47.6 |
+|:---|:---|:---|:---|:---|:---|:---|
 | *Qwen2.5-Math-1.5B (hard)* | GRPO | 71.0 | 31.8 | 34.3 | 13.8 | 41.9 |
 | *Qwen2.5-Math-1.5B (hard)* | Reinforce-Ada-pos | 73.9 | 33.1 | 36.4 | 16.4 | 44.6 |
 | *Qwen2.5-Math-1.5B (hard)* | Reinforce-Ada-balance | 74.7 | 33.7 | 38.7 | 17.6 | 45.5 |
+|:---|:---|:---|:---|:---|:---|:---|
 | *Qwen2.5-Math-7B* | GRPO | 82.2 | 44.7 | 45.6 | 23.2 | 53.3 |
 | *Qwen2.5-Math-7B* | Reinforce-Ada-pos | 82.7 | 45.1 | 46.7 | 23.7 | 54.2 |
 | *Qwen2.5-Math-7B* | Reinforce-Ada-balance | 84.0 | 45.2 | 47.1 | 23.7 | 54.6 |
+|:---|:---|:---|:---|:---|:---|:---|
 | *Qwen2.5-Math-7B (hard)* | GRPO | 80.7 | 42.8 | 42.9 | 21.8 | 51.3 |
 | *Qwen2.5-Math-7B (hard)* | Reinforce-Ada-pos | 82.4 | 43.1 | 45.0 | 22.2 | 52.8 |
 | *Qwen2.5-Math-7B (hard)* | Reinforce-Ada-balance | 83.1 | 43.4 | 46.4 | 24.9 | 53.9 |
+|:---|:---|:---|:---|:---|:---|:---|
 | *LLaMA-3.2-3B-instruct* | GRPO | 51.7 | 20.5 | 20.4 | 7.2 | 27.9 |
 | *LLaMA-3.2-3B-instruct* | Reinforce-Ada-pos | 52.6 | 22.2 | 21.0 | 7.5 | 28.8 |
 | *LLaMA-3.2-3B-instruct* | Reinforce-Ada-balance | 53.2 | 22.4 | 21.2 | 8.0 | 29.1 |
